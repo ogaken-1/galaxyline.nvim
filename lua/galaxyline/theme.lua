@@ -10,8 +10,8 @@ theme.default = {
   orange = '#FF8800',
   violet = '#a9a1e1',
   magenta = '#c678dd',
-  blue = '#51afef';
-  red = '#ec5f67';
+  blue = '#51afef',
+  red = '#ec5f67',
 }
 
 return theme

@@ -5,7 +5,7 @@ local fmt = string.format
 local enabled = false
 local cache = ''
 local options = {
-  c_langs = {'arduino', 'c', 'cpp', 'cuda', 'go', 'javascript', 'ld', 'php'},
+  c_langs = { 'arduino', 'c', 'cpp', 'cuda', 'go', 'javascript', 'ld', 'php' },
   max_lines = 5000,
 }
 
